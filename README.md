@@ -1,0 +1,2 @@
+# EthereumKickstarter
+Solidity Kickstarter contract
